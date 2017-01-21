@@ -1,0 +1,30 @@
+How to reset TM2
+1. Power OFF
+2. Power ON while holding PRGRM CONVRS
+3. Enter M 6000000 60FFFFF
+4. Press Write/Enter
+5. Press Reset when SUCCESS displayed
+6. Restart Machine
+7. Enable E-STOP
+8. Turn Setting 7 off (parameter lock)
+9. Press Alarm
+10. Enter DEBUG
+11. Press Write/Enter
+12. Go to Setting 26 (serial)
+13. Enter Serial Number (1074420)
+14. Press Write/Enter
+15. Insert Flash Drive
+16. Press LIST PROG
+17. Press Right Arrow to highlight USB
+18. Press F4
+19. Highlight "Load All - Reconfigure" (may be slightly different phrase)
+20. Enter name of files to load without extension (ex: TM2-2017)
+21. Press Write/Enter
+22. Press Current Commands
+23. Press Page Down to show time / date
+24. Enter date in this format: "01-17-2017"
+25. Press Write/Enter
+26. Enter time in this format: "17:29" (insert : by pressing SHIFT+9)
+27. Press Write/Enter
+
+REF: Page 30 of 2011 Haas Electrical Service Manual​
